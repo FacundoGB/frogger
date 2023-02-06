@@ -1,0 +1,14 @@
+Building the bare basic of the retro game Frogger using the follwoing methods:
+- querySelector()
+- querySelectroAll()
+- classList.add()
+- classList.remove()
+- classList.contains()
+- switch()
+- e.key
+- forEach()
+- setInterval()
+- clearInterval()
+- .addEventListener()
+- .removeEventListener()
+- .textContent

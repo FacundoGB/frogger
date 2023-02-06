@@ -1,0 +1,44 @@
+.grid {
+    border: 1px solid black;
+    height: 324px;
+    width: 324px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div {
+    height: 36px;
+    width: 36px;
+}
+
+.ending-block {
+    background-color: red;
+}
+
+.starting-block {
+    background-color: blue;
+}
+
+/* log */
+.l1, .l2, .l3 {
+    background-color: brown;
+}
+
+/* river */
+.l4, .l5 {
+    background-color: lightblue;
+}
+
+/* car */
+.c1 {
+    background-color: black;
+}
+
+/* road */
+.c2, .c3 {
+    background-color: lightgray;
+}
+
+.frog {
+    background-color: green;
+}
